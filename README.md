@@ -2,7 +2,7 @@
 
 ## gitで共有するとかgeekでヒューヒュー♪
 
-- ### メンバー
+- メンバー
  - motoyama
  - matsunoo
  - attsumi
