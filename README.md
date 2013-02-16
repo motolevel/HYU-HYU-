@@ -2,4 +2,8 @@
 
 ## gitで共有するとかgeekでヒューヒュー♪
 
-### モトヤマが編集。
+### メンバー
+.motoyama
+.matsunoo
+.attsumi
+.natasha
