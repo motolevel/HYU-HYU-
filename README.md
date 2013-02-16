@@ -3,7 +3,7 @@
 ## gitで共有するとかgeekでヒューヒュー♪
 
 ### メンバー
-.motoyama
-.matsunoo
-.attsumi
-.natasha
+1. motoyama
+2. matsunoo
+3. attsumi
+4. natasha
